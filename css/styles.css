@@ -2671,13 +2671,13 @@ fieldset:disabled a.btn {
 }
 .btn-dark:hover {
   color: #ffffff;
-  background-color: #e4a606;
-  border-color: #bb8703;
+  background-color: #efba05;
+  border-color: #efba05;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
-  background-color: #f1bf3e;
-  border-color: #f1bf3e;
+  background-color: #efba05;
+  border-color: #efba05;
   box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
 }
 .btn-dark.disabled, .btn-dark:disabled {
