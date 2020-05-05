@@ -58,6 +58,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+#sendMessageButton{
+  background-color: red !important;
+}
+
 body {
   margin: 0;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";  font-size: 1rem;
@@ -10458,7 +10462,3 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 
 
-
-#sendMessageButton{
-  background-color: #efae06 !important;
-}
