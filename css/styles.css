@@ -6126,7 +6126,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: red !important;
+  background-color: #fdf1b5 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10396,7 +10396,7 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: red;
+  background-color: #fdf1b5;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
