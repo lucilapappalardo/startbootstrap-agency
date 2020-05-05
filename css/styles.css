@@ -2672,7 +2672,7 @@ fieldset:disabled a.btn {
 .btn-dark:hover {
   color: #ffffff;
   background-color: #e4a606;
-  border-color: #e4a606;
+  border-color: #bb8703;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
