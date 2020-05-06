@@ -10457,5 +10457,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 
+/* CSS LU */
+.eapps-remove-link{
+  display: none !important;
+}
+
 
 
