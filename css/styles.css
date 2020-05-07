@@ -10464,7 +10464,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 #descripcionLibro{
   text-align: justify;
-  padding-left: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 
