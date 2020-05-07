@@ -10462,5 +10462,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding-bottom: 10px;
 }
 
+#descripcionLibro1{
+  text-align: justify;
+  padding-left: 30px;
+}
 
 
