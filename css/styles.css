@@ -10410,12 +10410,12 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
- /* background-color: #fff3b5; */
-  background: rgb(254,216,97);
+  background-color: #fff3b5;
+  /* background: rgb(254,216,97);
   background: -moz-linear-gradient(180deg, rgba(254,216,97,1) 0%, rgba(254,255,173,1) 100%);
   background: -webkit-linear-gradient(180deg, rgba(254,216,97,1) 0%, rgba(254,255,173,1) 100%);
   background: linear-gradient(180deg, rgba(254,216,97,1) 0%, rgba(254,255,173,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fed861",endColorstr="#feffad",GradientType=1) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fed861",endColorstr="#feffad",GradientType=1) !important;  */
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
