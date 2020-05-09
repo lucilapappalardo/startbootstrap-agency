@@ -10079,12 +10079,17 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    /*background-color: #ffed8a;*/
-    background: rgb(255,218,103);
+    /*background-color: #ffed8a; */
+    /* background: rgb(255,218,103);
     background: -moz-linear-gradient(153deg, rgba(255,218,103,1) 0%, rgba(246,247,166,1) 100%);
     background: -webkit-linear-gradient(153deg, rgba(255,218,103,1) 0%, rgba(246,247,166,1) 100%);
     background: linear-gradient(153deg, rgba(255,218,103,1) 0%, rgba(246,247,166,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffda67",endColorstr="#f6f7a6",GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffda67",endColorstr="#f6f7a6",GradientType=1); */
+    background: rgb(247,201,59);
+    background: -moz-linear-gradient(153deg, rgba(247,201,59,1) 0%, rgba(244,249,121,1) 100%);
+    background: -webkit-linear-gradient(153deg, rgba(247,201,59,1) 0%, rgba(244,249,121,1) 100%);
+    background: linear-gradient(153deg, rgba(247,201,59,1) 0%, rgba(244,249,121,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f7c93b",endColorstr="#f4f979",GradientType=1);
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
