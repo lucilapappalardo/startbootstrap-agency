@@ -6127,7 +6127,8 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #fff3b5 !important;
+ /* background-color: #fff3b5 !important; */
+  background: linear-gradient(90deg, rgba(254,236,135,1) 0%, rgba(254,243,186,1) 50%, rgba(251,248,139,1) 100%) !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
