@@ -6128,17 +6128,18 @@ button.bg-danger:focus {
 
 .bg-light {
    /*background-color: #FFED8A !important; */
-  background: rgb(246,218,113);
+  /*background: rgb(246,218,113);
   background: -moz-linear-gradient(180deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
   background: -webkit-linear-gradient(180deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
   background: linear-gradient(180deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6da71",endColorstr="#fffdc5",GradientType=1) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6da71",endColorstr="#fffdc5",GradientType=1) !important;*/
 
-  /*background: rgb(246,218,113);
-  background: -moz-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  background: -webkit-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  background: linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6da71",endColorstr="#fffdc5",GradientType=1);*/
+  background: rgb(255,217,96);
+  background: -moz-linear-gradient(180deg, rgba(255,217,96,1) 0%, rgba(246,200,219,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(255,217,96,1) 0%, rgba(246,200,219,1) 100%);
+  background: linear-gradient(180deg, rgba(255,217,96,1) 0%, rgba(246,200,219,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffd960",endColorstr="#f6c8db",GradientType=1);
+
 
    
 }
