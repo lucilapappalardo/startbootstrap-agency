@@ -6128,13 +6128,11 @@ button.bg-danger:focus {
 
 .bg-light {
   /* background-color: #fff3b5 !important; */
-  /* background: linear-gradient(90deg, rgba(254,236,135,1) 0%, rgba(254,243,186,1) 50%, rgba(251,248,139,1) 100%) !important; */
-  background: rgb(251,236,202);
-  background: -moz-linear-gradient(0deg, rgba(251,236,202,1) 0%, rgba(241,206,88,1) 100%);
-  background: -webkit-linear-gradient(0deg, rgba(251,236,202,1) 0%, rgba(241,206,88,1) 100%);
-  background: linear-gradient(0deg, rgba(251,236,202,1) 0%, rgba(241,206,88,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fbecca",endColorstr="#f1ce58",GradientType=1) !important;
-
+  background: rgb(247,237,184);
+  background: -moz-linear-gradient(121deg, rgba(247,237,184,1) 0%, rgba(255,249,123,1) 100%);
+  background: -webkit-linear-gradient(121deg, rgba(247,237,184,1) 0%, rgba(255,249,123,1) 100%);
+  background: linear-gradient(121deg, rgba(247,237,184,1) 0%, rgba(255,249,123,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f7edb8",endColorstr="#fff97b",GradientType=1) !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
