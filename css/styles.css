@@ -64,7 +64,7 @@ body {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
   line-height: 1.5;
-  color: #a96500;
+  color: #630101;
   text-align: left;
   background-color: #FFFFFF;
 }
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #a96500;
+  color: #630101;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9829,7 +9829,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #a96500 !important;
+  color: #630101 !important;
 }
 
 .text-black-50 {
@@ -10419,7 +10419,7 @@ section#contact {
   background-position: center;
 }
 section#contact .section-heading {
-  color: #a96500;
+  color: #630101;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
