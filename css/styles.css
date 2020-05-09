@@ -6129,20 +6129,18 @@ button.bg-danger:focus {
 .bg-light {
    /*background-color: #FFED8A !important; */
   background: rgb(246,218,113);
-  background: -moz-linear-gradient(90deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  background: -webkit-linear-gradient(90deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
-  background: linear-gradient(90deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  background: -moz-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  background: -webkit-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  background: linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6da71",endColorstr="#fffdc5",GradientType=1);
-  /* background: rgb(247,237,184);
-  background: -moz-linear-gradient(291deg, rgba(247,237,184,1) 0%, rgba(252,235,122,1) 100%);
-  background: -webkit-linear-gradient(291deg, rgba(247,237,184,1) 0%, rgba(252,235,122,1) 100%);
-  background: linear-gradient(291deg, rgba(247,237,184,1) 0%, rgba(252,235,122,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f7edb8",endColorstr="#fceb7a",GradientType=1) !important;*/
-  /* background: rgb(251,247,182);
-  background: -moz-linear-gradient(291deg, rgba(251,247,182,1) 0%, rgba(255,216,136,1) 100%);
-  background: -webkit-linear-gradient(291deg, rgba(251,247,182,1) 0%, rgba(255,216,136,1) 100%);
-  background: linear-gradient(291deg, rgba(251,247,182,1) 0%, rgba(255,216,136,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fbf7b6",endColorstr="#ffd888",GradientType=1) !important;*/
+  
+  /*background: rgb(246,218,113);
+  background: -moz-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  background: -webkit-linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  background: linear-gradient(84deg, rgba(246,218,113,1) 0%, rgba(255,253,197,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f6da71",endColorstr="#fffdc5",GradientType=1);*/
+
+   
 }
 
 a.bg-light:hover, a.bg-light:focus,
