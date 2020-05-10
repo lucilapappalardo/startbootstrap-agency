@@ -10503,3 +10503,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding-left: 10px;
 }
 
+#descarga-muestra-libro{
+  padding: 0.5rem 0.8rem !important;
+  text-transform: lowercase !important;
+}
+
+
