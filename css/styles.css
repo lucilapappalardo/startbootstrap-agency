@@ -10511,3 +10511,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding: 0.5rem 0.35rem !important;
 }
 
+.btn-navbar:hover {
+    color: #630101 !important;
+}
