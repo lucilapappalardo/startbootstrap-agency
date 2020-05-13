@@ -10506,5 +10506,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 #descarga-muestra-libro{
   padding: 0.5rem 0.8rem !important;
 }
-
+.btn-white{
+  color: #ffffff;
+}
 
