@@ -2687,9 +2687,9 @@ fieldset:disabled a.btn {
   border-color: #343a40;
 }
 .btn-dark:not(:disabled):not(.disabled):active, .btn-dark:not(:disabled):not(.disabled).active, .show > .btn-dark.dropdown-toggle {
-  color: #f5be02;
-  background-color: #f5be02;
-  border-color: #f5be02;
+  color: #fec503;
+  background-color: #fec503;
+  border-color: #fec503;
 }
 .btn-dark:not(:disabled):not(.disabled):active:focus, .btn-dark:not(:disabled):not(.disabled).active:focus, .show > .btn-dark.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
