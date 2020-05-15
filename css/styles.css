@@ -2667,18 +2667,18 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #ffffff;
-  background-color: #ffe45d;
-  border-color: #ffe45d;
+  background-color: #f5be02;
+  border-color: #f5be02;
 }
 .btn-dark:hover {
   color: #ffffff;
-  background-color: #efba05;
-  border-color: #efba05;
+  background-color: #ca9c00;
+  border-color: #ca9c00;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
-  background-color: #efba05;
-  border-color: #efba05;
+  background-color: #ca9c00;
+  border-color: #ca9c00;
   box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
 }
 .btn-dark.disabled, .btn-dark:disabled {
