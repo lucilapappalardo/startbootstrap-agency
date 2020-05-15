@@ -10518,3 +10518,8 @@ section#contact form#contactForm :-ms-input-placeholder {
     padding-bottom: 0.5rem !important;
     padding-left: 0.35rem !important;
 }
+
+img-fluid-portfolio{
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
