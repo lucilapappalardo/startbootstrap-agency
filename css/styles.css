@@ -10519,8 +10519,13 @@ section#contact form#contactForm :-ms-input-placeholder {
     padding-left: 0.35rem !important;
 }
 
-.btn-contact {
+/*.btn-contact {
   font-size: 100px;
   color: #daa700;
-}
+}*/
 
+.page-section-carousel {
+    padding-top: 6rem;
+    padding-right: 0px;
+    padding-left: 0px;
+}
