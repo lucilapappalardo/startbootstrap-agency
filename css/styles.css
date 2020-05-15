@@ -10158,6 +10158,8 @@ header.masthead .masthead-heading {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  border-top-left-radius: 12px !important;
+  border-top-right-radius: 12px !important;
   display: flex;
   position: absolute;
   width: 100%;
