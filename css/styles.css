@@ -10524,3 +10524,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-top-left-radius: 12px !important;
   border-top-right-radius: 12px !important;
 }
+
+.modalPorcentaje{
+  height: 80%;
+  width: 80%;
+}
