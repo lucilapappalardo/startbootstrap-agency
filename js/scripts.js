@@ -41,12 +41,6 @@
         offset: 74,
     });
        
-       
-    $('.carousel').carousel({
-      interval: 50
-    });
-       
-       
 
     // Collapse Navbar
     var navbarCollapse = function () {
@@ -60,4 +54,10 @@
     navbarCollapse();
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
-})(jQuery); // End of use strict
+    })(jQuery); // End of use strict
+
+
+   // Lu: cambio de velocidad de slides del carousel
+    $('.carousel').carousel({
+      interval: 500
+    });
