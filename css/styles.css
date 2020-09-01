@@ -10529,3 +10529,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   height: 60%;
   width: 85%;
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 60px !important;
+    height: 60px !important;
+}
