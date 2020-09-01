@@ -40,6 +40,13 @@
         target: "#mainNav",
         offset: 74,
     });
+       
+       
+    $('.carousel').carousel({
+      interval: 50
+    });
+       
+       
 
     // Collapse Navbar
     var navbarCollapse = function () {
