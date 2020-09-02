@@ -10534,3 +10534,7 @@ section#contact form#contactForm :-ms-input-placeholder {
     width: 60px !important;
     height: 60px !important;
 }
+
+.powered-by {
+    display: none !important;
+}
