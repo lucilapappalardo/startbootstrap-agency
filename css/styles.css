@@ -10052,7 +10052,7 @@ img::-moz-selection {
   color: #fff;
   letter-spacing: 0.0625em;
   font-weight: bold;
-  text-shadow: 2px 0 8px #ff6a00;
+  text-shadow: 1px 1px 8px #ff6a00, 0 0 1em #ff6a00, 0 0 0.2em #ff6a00;
   -webkit-text-stroke: 0.15px black;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
