@@ -59,5 +59,5 @@
 
    // Lu: cambio de velocidad de slides del carousel
     $('.carousel').carousel({
-      interval: 1500
+      interval: 2200
     });
