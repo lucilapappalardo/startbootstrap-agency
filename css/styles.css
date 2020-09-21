@@ -10053,10 +10053,10 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
   font-weight: bold;
   text-shadow: 1px 1px 8px #de7d05, 0 0 1em #de7d05, 0 0 0.2em #de7d05;
-  -webkit-text-stroke: 0.15px black;
+  -webkit-text-stroke: 0.18px black;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: orange;
+  color: #AD5E02;
 }
 
 @media (min-width: 992px) {
