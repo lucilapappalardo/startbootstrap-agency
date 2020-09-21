@@ -10056,7 +10056,7 @@ img::-moz-selection {
   -webkit-text-stroke: 0.15px black;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #844b06;
+  color: orange;
 }
 
 @media (min-width: 992px) {
